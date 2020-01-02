@@ -1,1 +1,2 @@
 20200102 11:30 1st test git "hello world" 
+20200102 16:00 2nd test alien plot on chp1
